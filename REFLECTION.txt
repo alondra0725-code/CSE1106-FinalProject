@@ -1,0 +1,5 @@
+What was your primary contribution? I made the whole thing by myself
+Most challenging technical problem? Probably the main.c code
+How did your team use testing or debugging to solve a problem? Testing helped see what things might be wrong and made it easier to debug 
+Which skills where most useful? I think figuring out the raspberry pi and the C coding
+What would you improve if you had more time? I would like to make my stuff neater
